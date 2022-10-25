@@ -46,3 +46,10 @@ Small.args = {
   size: 'small',
   label: 'Button',
 };
+
+export const RedButton = Template.bind({});
+RedButton.args = {
+  size: 'small',
+  label: 'Button',
+  backgroundColor: 'red',
+};
