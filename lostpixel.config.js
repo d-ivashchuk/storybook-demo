@@ -7,6 +7,7 @@ module.exports = {
 
   storybookShots: {
     storybookUrl: 'storybook-static',
+    breakpoints: [300, 600, 900],
   },
 
   shotConcurrency: 10,
